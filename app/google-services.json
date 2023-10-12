@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "854582446945",
+    "firebase_url": "https://apploginfirebase-e62a8.firebaseio.com",
+    "project_id": "apploginfirebase-e62a8",
+    "storage_bucket": "apploginfirebase-e62a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854582446945:android:0a8d67e2d7078b0d",
+        "android_client_info": {
+          "package_name": "com.guimatec.suaclinicaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854582446945-v7atpojh65o7tdmtg4397hr32dba0eak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guimatec.suaclinicaapp",
+            "certificate_hash": "244e72500bfe849fc049579a1791a0c407812322"
+          }
+        },
+        {
+          "client_id": "854582446945-c5p18lbla8gkg5n4g4jk65vu3uvuqkbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxD2k3cs02I28HZhrQEG35XODcgga2Q84"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854582446945-c5p18lbla8gkg5n4g4jk65vu3uvuqkbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
